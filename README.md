@@ -1,0 +1,1 @@
+This repository serves as a living document of my jupyter notes from Andrew Ng's Machine Learning Specialization Courses offered by Stanford Online via Coursera.
